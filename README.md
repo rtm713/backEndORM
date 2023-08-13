@@ -35,3 +35,5 @@ run ```npm i``` for installation
 
 
 ## Video Walkthrough
+[Untitled_ Aug 13, 2023 3_53 PM.webm](https://github.com/rtm713/backEndORM/assets/127454251/5d1f19f0-683d-4e3e-bbd5-108aa918479b)
+
